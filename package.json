@@ -32,7 +32,7 @@
     "jspdf": "^1.5.3",
     "limdu": "^0.9.4",
     "lodash": "^4.17.11",
-    "marked": "^0.6.0",
+    "marked": "^4.0.10",
     "moment": "^2.24.0",
     "mongoose": "^5.4.9",
     "mongoose-seed": "^0.5.1",
