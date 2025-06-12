@@ -45,7 +45,7 @@ arxiv_startup_miner/
 2.  **Install Python dependencies:**
     Navigate to the project directory (`arxiv_startup_miner/`) in your terminal and install the required libraries:
     ```bash
-    pip install arxiv PyMuPDF requests
+    pip install -r requirements.txt
     ```
 
 ## Usage
